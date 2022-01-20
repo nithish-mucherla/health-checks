@@ -1,0 +1,10 @@
+Hostname,OSName,Uptime Days,Uptime Hours,Uptime Mins
+instance-1,CentOS Linux release 7.9.2009 ,0,0,9
+instance-2,CentOS Linux release 7.9.2010,2,1,10
+instance-3,CentOS Linux release 7.9.2011,0,0,9
+instance-4,CentOS Linux release 7.9.2012,0,0,0
+instance-5,CentOS Linux release 7.9.2013,3,1,8
+instance-6,CentOS Linux release 7.9.2014,3,3,6
+instance-7,CentOS Linux release 7.9.2015,0,1,9
+instance-8,CentOS Linux release 7.9.2016,0,1,101
+instance-9,CentOS Linux release 7.9.2017,0,0,9
